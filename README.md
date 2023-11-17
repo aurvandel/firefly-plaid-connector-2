@@ -1,3 +1,4 @@
+[![Create and push Docker image](https://github.com/aurvandel/firefly-plaid-connector-2/actions/workflows/dockerize.yml/badge.svg)](https://github.com/aurvandel/firefly-plaid-connector-2/actions/workflows/dockerize.yml)
 # Firefly Plaid Connector 2
 Connector to pull Plaid financial data into the Firefly finance tool.
 
