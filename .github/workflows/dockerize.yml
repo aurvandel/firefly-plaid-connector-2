@@ -11,6 +11,7 @@ on:
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
+  DOCKER_TARGET_PLATFORM: linux/arm64/v8
 
 jobs:
   build-and-push-image:
